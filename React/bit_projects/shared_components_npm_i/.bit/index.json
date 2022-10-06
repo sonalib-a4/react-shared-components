@@ -1,0 +1,37 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": null,
+        "name": "dialog"
+      },
+      "isSymlink": true,
+      "hash": "863be329d06419a6f600518c2d24350db06d78c8"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "color"
+      },
+      "isSymlink": true,
+      "hash": "6dd0fe8001145bec4a12d0e22da711c4970d000b"
+    },
+    {
+      "id": {
+        "scope": "afourtech.shared_components",
+        "name": "color"
+      },
+      "isSymlink": false,
+      "hash": "c2235479d2f5c1708186ddcca1faaa1d525a7b6a"
+    },
+    {
+      "id": {
+        "scope": "afourtech.shared_components",
+        "name": "dialog"
+      },
+      "isSymlink": false,
+      "hash": "822b213521dc4a209358c709bc71728444963c9c"
+    }
+  ],
+  "lanes": []
+}

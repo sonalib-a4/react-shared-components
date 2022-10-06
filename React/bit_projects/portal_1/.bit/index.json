@@ -1,0 +1,13 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": "afourtech.shared_components",
+        "name": "dialog"
+      },
+      "isSymlink": false,
+      "hash": "822b213521dc4a209358c709bc71728444963c9c"
+    }
+  ],
+  "lanes": []
+}

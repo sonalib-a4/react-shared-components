@@ -1,0 +1,21 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": "afourtech.shared_components",
+        "name": "dialog"
+      },
+      "isSymlink": true,
+      "hash": "863be329d06419a6f600518c2d24350db06d78c8"
+    },
+    {
+      "id": {
+        "scope": "afourtech.shared_components",
+        "name": "dialog"
+      },
+      "isSymlink": false,
+      "hash": "822b213521dc4a209358c709bc71728444963c9c"
+    }
+  ],
+  "lanes": []
+}

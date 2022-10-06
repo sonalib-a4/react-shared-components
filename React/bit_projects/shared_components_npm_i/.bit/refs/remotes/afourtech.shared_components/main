@@ -1,0 +1,16 @@
+[
+  {
+    "id": {
+      "scope": "afourtech.shared_components",
+      "name": "dialog"
+    },
+    "head": "e865f064e05e693efccb9fa53297f0751d72765f"
+  },
+  {
+    "id": {
+      "scope": "afourtech.shared_components",
+      "name": "color"
+    },
+    "head": "5da44ec21ec9feaeda925ecee9fecf69486529a6"
+  }
+]
